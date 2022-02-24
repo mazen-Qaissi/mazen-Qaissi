@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mazen-Qaissi
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Software Engineer
+- 💞️ I’m looking to collaborate on Algorithms, AI, Web development....
+- 📫 How to reach me mazen.qaissi88@gmail.com
